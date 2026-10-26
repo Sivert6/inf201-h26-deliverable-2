@@ -1,0 +1,36 @@
+* 9c585f5 - Fabian Feiler, 49 seconds ago : Add PDF of notebook
+* 5c95ebc - Sivert Hole Svenningsen, 30 minutes ago : Improve Task 5 discussion and small fixes
+*   67d6a6d - Fabian Feiler, 47 minutes ago : Merge pull request #6 from Sivert6/fix-task5-rounding
+|\  
+| * 22e0434 - Fabian Feiler, 49 minutes ago : Vectorise NOK correction and round output values
+|/  
+* 9f43cde - Sivert Hole Svenningsen, 72 minutes ago : Task 5: full workflow and output files
+* 26ab6fd - Sivert Hole Svenningsen, 82 minutes ago :    Add Task 4 to main notebook
+*   b36dd58 - Fabian Feiler, 4 days ago : Merge pull request #5 from Sivert6/add-task3-to-main
+|\  
+| * ed61934 - Fabian Feiler, 4 days ago : Add Task 3 and discussions of Task 2 and 3
+|/  
+*   c182fb9 - Fabian Feiler, 4 days ago : Merge pull request #4 from Sivert6/task3
+|\  
+| * 0cb816f - Fabian Feiler, 4 days ago : Task 3: outlier removal and refund ratio
+|/  
+* 81954a8 - Sivert Hole Svenningsen, 4 days ago : Task 4: pandas analysis functions
+* f71b0ab - Sivert Hole Svenningsen, 4 days ago : Fix Task 1: type hints, encoding test and discussion
+*   7eebc95 - Fabian Feiler, 5 days ago : Merge pull request #3 from Sivert6/add-task2-to-main
+|\  
+| * dd148f7 - Fabian Feiler, 5 days ago : Add Task 2 to main notebook
+|/  
+*   641bf95 - Fabian Feiler, 5 days ago : Merge pull request #2 from Sivert6/task2
+|\  
+| * 3512638 - Fabian Feiler, 5 days ago : Task 2.2: recursive active register search
+| * 7ee867e - Fabian Feiler, 5 days ago : Task 2.1: recursive log file search
+| * abcddf5 - Fabian Feiler, 5 days ago : Add .DS_Store to .gitignore
+* |   abdcc6a - Sivert6, 5 days ago : Merge pull request #1 from Sivert6/task1
+|\ \  
+| |/  
+|/|   
+| * 911306f - Sivert Hole Svenningsen, 5 days ago : Task 1 - file reader and regex parser
+|/  
+* 0409d52 - Fabian Feiler, 5 days ago : Add matplotlib to requirements
+* 190df01 - Sivert Hole Svenningsen, 5 days ago : Add data and requirements.txt
+* 9fd5064 - Sivert Hole Svenningsen, 5 days ago : Initial setup
